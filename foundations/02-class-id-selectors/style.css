@@ -1,0 +1,20 @@
+.pink-background {
+    font-family: Verdana, DejaVu Sans, serif;
+    background-color: #ffc0cb;
+}
+
+.pink-background.header {
+    font-size: 24px;
+}
+
+#blue-text {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 36px;
+}
+
+.green-background {
+    background-color: #89fa9c;
+    font-size: 24px;
+    font-weight: bold;
+}
